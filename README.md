@@ -2,7 +2,7 @@
 
 I'm Enes Pala, a fullstack developer from Turkey.
 
--   :hammer_and_pick: PHP, Javascript, Typescript, VueJS, NextJS, ReactJS, Laravel, TailwindCSS, NodeJS
+-   :hammer_and_pick: PHP, Laravel, Javascript, Typescript, NextJS, ReactJS, TailwindCSS, NodeJS, Flutter
 -   :pencil2: Ubuntu on WSL / vscode
 -   :globe_with_meridians: Find me on <a 
 href="https://www.linkedin.com/in/enes-p-aa0439188" target="_blank">LinkedIn</a> 
